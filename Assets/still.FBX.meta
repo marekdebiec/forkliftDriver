@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: c1a10b4d188cbf24480e94dc160b364a
+timeCreated: 1473069712
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: forklift_MeshPart0
+    100002: forklift_MeshPart1
+    100004: forklift_MeshPart2
+    100006: //RootNode
+    100008: Cylinder001
+    100010: Cylinder002
+    100012: Object008
+    100014: Object009
+    100016: forklift
+    100018: Object010
+    100020: Object004
+    100022: Object005
+    100024: Object006
+    100026: Object007
+    100028: pytajnik
+    400000: forklift_MeshPart0
+    400002: forklift_MeshPart1
+    400004: forklift_MeshPart2
+    400006: //RootNode
+    400008: Cylinder001
+    400010: Cylinder002
+    400012: Object008
+    400014: Object009
+    400016: forklift
+    400018: Object010
+    400020: Object004
+    400022: Object005
+    400024: Object006
+    400026: Object007
+    400028: pytajnik
+    2300000: forklift_MeshPart0
+    2300002: forklift_MeshPart1
+    2300004: forklift_MeshPart2
+    2300006: Cylinder001
+    2300008: Cylinder002
+    2300010: Object008
+    2300012: Object009
+    2300014: //RootNode
+    2300016: forklift
+    2300018: Object010
+    2300020: Object004
+    2300022: Object005
+    2300024: Object006
+    2300026: Object007
+    2300028: pytajnik
+    3300000: forklift_MeshPart0
+    3300002: forklift_MeshPart1
+    3300004: forklift_MeshPart2
+    3300006: Cylinder001
+    3300008: Cylinder002
+    3300010: Object008
+    3300012: Object009
+    3300014: //RootNode
+    3300016: forklift
+    3300018: Object010
+    3300020: Object004
+    3300022: Object005
+    3300024: Object006
+    3300026: Object007
+    3300028: pytajnik
+    4300000: forklift_MeshPart0
+    4300002: forklift_MeshPart1
+    4300004: forklift_MeshPart2
+    4300006: forklift
+    4300008: Cylinder002
+    4300010: Object009
+    4300012: Object008
+    4300014: Cylinder001
+    4300016: Object010
+    4300018: pudlo
+    4300020: pytajnik
+    4300022: Object004
+    4300024: Object005
+    4300026: Object006
+    4300028: Object007
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
